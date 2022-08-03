@@ -1,5 +1,5 @@
 require 'simplecov'
-
+require './lib/student'
 SimpleCov.start
 
 
